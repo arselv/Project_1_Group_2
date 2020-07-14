@@ -2,5 +2,5 @@
 Data Analysis and Visualization course Project 1 repo.  
 
 Proposal:
-Foreign cars are more popular than domestic cars. 
-Car sales of top 3 manufacturers in their respective category in the US.  
+Our project is to determine if foreign cars are more popular than domestic cars. 
+We are going to examine the car sales of top 3 manufacturers in the foreign and domestic category in the US.  Examine how sales have changed over time.  

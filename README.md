@@ -1,22 +1,28 @@
 # Project_1_Group_2
-Data Analysis and Visualization course Project 1 repo.  
-
-Project Title: United States Motor Vehicles Sales and Figures. Domestic vs Import.
+Data Analysis and Visualization course Project 1 repo. 
+Project - Brewery
 
 Team Members: Arsel Vargas, David Hutchinson, Christine Hemphill, Maninder Bawa
 
-Project Description/Outline: Our project is to determine if Imported cars makers have a better sales history compared to Domestic cars, within the continental United States.
+Overall Project:
+As a new Brewery in the US, we want to make our own beer, but what type will our first beer be, an ale or an lager?
 
-We will compare manufactures that offer similar vehicle classes within similar price ranges, so as to rule out price as a determining factor.
+Hypothesis:
+For beer drinker in the US, lagers are more preffered than ales.  
 
-We will examine how vehicle sales have changed over the last 5 years for each manufacturer, along with company growth and market share, as data permits. 
+Alternative:
+For beer drinker in the US, ale are more preffered than lagers.
+Null:
+There is no signifcant difference in prefference of beer between lagers and ales.  
 
-Research Questions to answer:
-H0: Domestic vehicle manufactures continue to have a better sales history within the United States.
 
-H1: Imported vehicle manufactures have overtaken the domestic market with better sales within the United States.
+Questions:
+What is the overall ratings for lagers and ales? (Bar Chart, Beer Type vs Overall Rating)
+Does the alcohol content of the beer contribute to the overall preference? (Line Graph, Rating Plot vs Alcohol)
+How does the overal review correlate/compare to the appearance, aroma, palete, taste?  (Line Graph, Overall vs All Other Scores)
+(Taste - Chemical sensation, Palete - Physical sensation, aroma and taste)?
+Does the complexity of the name of the beer affect the overall rating of the beer? (Line Graph, Name Character Size vs Overall Rating)
+Does the a brewery name (how well known it is is) affect the lager and ale overall score?  (Boxplot, Top 5 Breweries Mean Score)
 
-Additional questions:
-1. Is there a correlation between vehicle sales, company growth and market share. If so, does one have more affect than the other?
-2. Are there vehicle sales fluctuations due to they time of year?
-Datasets to be used: https://carsalesbase.com/
+Data Source
+https://www.kaggle.com/rdoume/beerreviews

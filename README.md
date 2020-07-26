@@ -17,12 +17,12 @@ There is no signifcant difference in prefference of beer between lagers and ales
 
 
 Questions:
-What is the overall ratings for lagers and ales? (Bar Chart, Beer Type vs Overall Rating)
-Does the alcohol content of the beer contribute to the overall preference? (Line Graph, Rating Plot vs Alcohol)
-How does the overal review correlate/compare to the appearance, aroma, palete, taste?  (Line Graph, Overall vs All Other Scores)
-(Taste - Chemical sensation, Palete - Physical sensation, aroma and taste)?
-Does the complexity of the name of the beer affect the overall rating of the beer? (Line Graph, Name Character Size vs Overall Rating)
-Does the a brewery name (how well known it is is) affect the lager and ale overall score?  (Boxplot, Top 5 Breweries Mean Score)
+What is the most popular type of beer among reviewers?
+How does alcohol content contribute to the ratings received?
+How does the overall review correlate to the individual reviews of appearance, aroma, palate, and taste?
+Can the complexity of the product name affect the overall rating?
+Does the public awareness of the brewery affect the overall score?
 
+Final Jupyter Notebook: Beer_Review_Final
 Data Source
 https://www.kaggle.com/rdoume/beerreviews
